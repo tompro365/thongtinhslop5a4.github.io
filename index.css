@@ -1,0 +1,29 @@
+* {
+    align-items: center;
+    text-align: center;
+}
+.a47 {
+    background-color: #ffffff;
+    border: none;
+    color: #1858ed;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    padding: 15px 32px;
+}
+.login {
+    background-color: #e61010;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    padding: 15px 32px;
+}
+.ieduk-n3ui {
+    background-color: red;
+}
